@@ -1,15 +1,9 @@
 # bmi_calculator
 
-A new Flutter project.
+BMI Calculator is free app that allows you to monitor BMI and percentage of fat in your body. Ideal weight - app calculates the ideal weight you should gain. To calculate it app uses the D. R. Miller formula.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
